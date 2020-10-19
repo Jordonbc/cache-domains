@@ -128,11 +128,6 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
-			"name": "Soundcloud",
-			"description": "CDN for soundcloud",
-			"domain_files": ["soundcloud.txt"]
-		},
-		{
 			"name": "CUSTOM",
 			"description": "List of custom caching domains",
 			"domain_files": ["custom.txt"]
