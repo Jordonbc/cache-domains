@@ -1,2 +1,2 @@
-*.soundcloud.com
-*.sndcdn.com
+soundcloud.com
+sndcdn.com
