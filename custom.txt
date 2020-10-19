@@ -1,3 +1,4 @@
 *.soundcloud.com
 *.twitch.tv
 *.visualstudio.com
+wave.sndcdn.com
