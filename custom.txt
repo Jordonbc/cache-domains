@@ -3,3 +3,4 @@
 *.visualstudio.com
 wave.sndcdn.com
 catalog.gamepass.com
+*.discord.com
