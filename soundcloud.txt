@@ -1,0 +1,9 @@
+*.soundcloud.com
+*.sndcdn.com
+l9bjkkhaycw6f8f4.soundcloud.com
+wis.sndcdn.com
+va.sndcdn.com
+i4.sndcdn.com
+i3.sndcdn.com
+i2.sndcdn.com
+i1.sndcdn.com
