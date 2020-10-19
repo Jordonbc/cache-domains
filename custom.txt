@@ -1,0 +1,3 @@
+*.soundcloud.com
+*.twitch.tv
+*.visualstudio.com

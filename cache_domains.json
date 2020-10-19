@@ -128,9 +128,9 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
-			"name": "Example",
-			"description": "ExampleTest",
-			"domain_files": ["example.txt"]
+			"name": "CUSTOM",
+			"description": "List of custom caching domains",
+			"domain_files": ["custom.txt"]
 		}
 	]
 }
