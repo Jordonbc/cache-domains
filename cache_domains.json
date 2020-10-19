@@ -128,11 +128,6 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
-			"name": "Mihoyo",
-			"description": "Genshin Impact game",
-			"domain_files": ["mihoyo.txt"]
-		},
-		{
 			"name": "CUSTOM",
 			"description": "List of custom caching domains",
 			"domain_files": ["custom.txt"]
