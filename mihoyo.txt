@@ -3,3 +3,5 @@ genshin.mihoyo.com
 api-static.mihoyo.com
 sdk-os-static.mihoyo.com
 static.nvidiagrid.net
+autopatchhk.yuanshen.com
+log-upload-os.mihoyo.com
