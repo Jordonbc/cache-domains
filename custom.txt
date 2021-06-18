@@ -1,1 +1,3 @@
 catalog.gamepass.com
+
+play.google.com
