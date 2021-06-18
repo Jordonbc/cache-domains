@@ -1,2 +1,3 @@
 origin-a.akamaihd.net
+a1750.w27.akamai.net
 lvlt.cdn.ea.com
