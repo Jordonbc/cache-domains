@@ -1,16 +1,18 @@
 {
 	"ips": {
-		"generic":	["ipaddress"]
+		"generic": [
+			"ipaddress"
+		]
 	},
 	"cache_domains": {
-		"default": 	"generic",
-		"blizzard": 	"generic",
-		"origin": 	"generic",
-		"riot": 	"generic",
-		"steam": 	"generic",
-		"wsus": 	"generic",
-		"xboxlive": 	"generic",
-		"rockstar": 	"generic"
-		
+		"default": "generic",
+		"blizzard": "generic",
+		"origin": "generic",
+		"riot": "generic",
+		"steam": "generic",
+		"wsus": "generic",
+		"xboxlive": "generic",
+		"rockstar": "generic",
+		"CUSTOM": "generic"
 	}
 }
