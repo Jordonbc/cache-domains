@@ -1,8 +1,6 @@
 {
 	"ips": {
-		"generic": [
-			"ipaddress"
-		]
+		"generic": ["ipaddress"]
 	},
 	"cache_domains": {
 		"default": "generic",
