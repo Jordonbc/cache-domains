@@ -1,7 +1,8 @@
 catalog.gamepass.com
-
 play.google.com
 r1---sn-8pgbpohxqp5-auoz.gvt1.com
 r2---sn-8pgbpohxqp5-auoz.gvt1.com
 r3---sn-8pgbpohxqp5-auoz.gvt1.com
 r4---sn-8pgbpohxqp5-auoz.gvt1.com
+cdn.ampproject.org
+api.eu-west-1.aiv-delivery.net
