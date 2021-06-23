@@ -1,3 +1,8 @@
 origin-a.akamaihd.net
 a1750.w27.akamai.net
 lvlt.cdn.ea.com
+
+akamai.cdn.ea.com
+river.data.ea.com
+origin-a.akamaihd.net.edgesuite.net
+ea2.com.edgekey.net
