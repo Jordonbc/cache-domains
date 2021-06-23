@@ -59,7 +59,6 @@
 			"name": "origin",
 			"description": "CDN for origin",
 			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
-			"mixed_content": true,
 			"domain_files": ["origin.txt"]
 		},
 		{
