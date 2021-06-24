@@ -11,6 +11,7 @@
 		"wsus": "generic",
 		"xboxlive": "generic",
 		"rockstar": "generic",
+		"minecraft": "generic",
 		"CUSTOM": "generic"
 	}
 }

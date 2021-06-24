@@ -1,0 +1,3 @@
+libraries.minecraft.net
+resources.download.minecraft.net
+launchermeta.mojang.com

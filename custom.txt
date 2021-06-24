@@ -23,7 +23,5 @@ webstatic.mihoyo.com
 antelope-rtm-prod-black-519949175.us-east-1.elb.amazonaws.com
 
 
-launchermeta.mojang.com
+
 d1dulol58c5ch1.cloudfront.net
-libraries.minecraft.net
-resources.download.minecraft.net

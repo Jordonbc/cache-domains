@@ -127,6 +127,11 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
+			"name": "minecraft",
+			"description": "CDN for minecraft",
+			"domain_files": ["minecraft.txt"]
+		},
+		{
 			"name": "CUSTOM",
 			"description": "List of custom caching domains",
 			"domain_files": ["custom.txt"]
